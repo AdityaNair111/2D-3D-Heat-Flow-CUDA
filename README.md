@@ -8,4 +8,4 @@ Given the rectangular room and configuration of heaters, the code simulates what
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=T_{new}=T_{old}&plus;\sum\limits_{neighbors}&space;k(T_{neighbor}-T_{old})" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T_{new}=T_{old}&plus;\sum\limits_{neighbors}&space;k(T_{neighbor}-T_{old})" title="T_{new}=T_{old}+\sum\limits_{neighbors} k(T_{neighbor}-T_{old})" /></a>
 
-The demo of config file is provided in the .config file.
+The demo of config file is provided in the .conf file.
